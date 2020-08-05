@@ -1,1 +1,1 @@
-A basic, non-functional Google homepage exercise to get the basics down of CSS and HTML. 
+A basic, non-functional Google homepage to showcase the basics of building a website from scratch using HTML and CSS. 
