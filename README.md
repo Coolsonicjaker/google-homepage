@@ -1,1 +1,1 @@
-# google-homepage
+A basic, non-functional Google homepage exercise to get the basics down of CSS and HTML. 
